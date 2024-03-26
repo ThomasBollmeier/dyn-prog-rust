@@ -1,6 +1,5 @@
-// 1. Exhaustive search
-
-use std::{io::Cursor, time::Instant};
+// 2. Branch and Bound Search
+use std::time::Instant;
 //use std::time::{SystemTime, UNIX_EPOCH};
 use utils::Prng;
 
